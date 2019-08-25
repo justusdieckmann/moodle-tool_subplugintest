@@ -1,12 +1,11 @@
 /**
  * @module testsubplugin/test
  */
-define([], function() {
+define(['jquery'], function($) {
 
     return {
         init: function() {
-            document.write("Javascript is working!");
-            console.log("Javascript is working!");
+            $('#javascriptworking').text('Javascript IS working!');
         }
     };
 });
