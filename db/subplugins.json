@@ -1,0 +1,5 @@
+{
+  "plugintypes": {
+    "testsubplugin" : "admin\/tool\/subplugintest\/plugins"
+  }
+}
