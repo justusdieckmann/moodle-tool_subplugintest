@@ -1,5 +1,5 @@
 /**
- * @module testsubplugin/test
+ * @module testsubplugin_subplugin/test
  */
 define(['jquery'], function($) {
 
